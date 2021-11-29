@@ -1,5 +1,5 @@
 # Pizza Inn! Live link
-[Check it out](https://vergus866.github.io/pizza_city/)
+(https://vergus866.github.io/pizza_city/)
 
 
 ## Description: 
