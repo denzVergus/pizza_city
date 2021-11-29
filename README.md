@@ -1,5 +1,5 @@
 # Pizza Inn! Live link
-[Check it out]()
+[Check it out](https://vergus866.github.io/pizza_city/)
 
 
 ## Description: 
@@ -7,9 +7,6 @@ A pizza ordering web application.
 
 ## Author:
 > Denis Kipchirchir
-
-## Screenshot:
-<img
 
 ## Setup:
 `git clone https://github.com/vergus866/pizza_city.git` or download the zip file
